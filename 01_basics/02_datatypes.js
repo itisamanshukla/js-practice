@@ -12,7 +12,7 @@ console.log("aman")
 // boolean
 // null-standalone value
 // undefined
-// symbol- use to determine whether component is unique or not
+// symbol- used to make a component unique
 
 // object
 console.log(typeof null); //object 
