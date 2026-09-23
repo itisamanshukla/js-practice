@@ -27,6 +27,8 @@ console.log(typeof bignumber);
 console.log(typeof fun);
 console.log(typeof obj);
 
-
+// two types of memory
+// stack (primitive) -pass by value
+// heap(non primitive) -pass by reference
 
 
